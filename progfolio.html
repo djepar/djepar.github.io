@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+        <link rel="stylesheet" href="styleCommon.css">
+        <link rel="stylesheet" href="styleProgfolio.css">
+        
+        <title>Progfolio</title>
+        <script src="scriptProgfolio.js" defer></script>
+    </head>
+    <body>
+        <div class="container">
+            <nav class="menu">
+                <ul class="nav_links">
+                    <li><a href="index.html" >Home</a></li>
+                    <li class="active"><a href="progfolio.html" >Progfolio</a></li>
+                    <li><a href="cv.html">Curiculum Vitae</a></li>
+                </ul>
+ <!-- <a class="cta" href="contact.html">Contact</a> -->
+           
+            </nav>
+           
+            <main>
+                <h2>Choose your converter</h2>
+                <h1>Miles to Kilometers Converter</h1>
+    
+                <div>
+                    <p>Type in a number of miles and click the button to convert the distance to kilometers.</p>
+                    
+                    <form method="post" action="somephpfile.php" id="convert">
+                    
+                        <input type="text" name="distance" id="distance" placeholder="distance">
+                        <input type="submit" name="convertdist" value="Convert Distance">
+                    
+                    </form>
+                </div>
+                <div id="answer">
+                    <h2 class="invisible">Answer goes here</h2>
+                </div>
+                
+                <p id="directions">Press the "K" key to switch to kilometer converstion, press the "M" key to switch to mile conversion</p>
+            
+
+            </main>
+            <div id="sidebar">
+                <h2>List of program</h2>
+                <ul>
+                    <li>Algorithm</li>
+                    <!-- 
+                        W3Validator Don't accept ul in ul
+                    <ul>
+                        <li>Search Algorithm</li>
+                        <ul>
+                            <li>Linear Search</li>
+                            <li>Binary Search</li>
+                        </ul>
+                    </ul>
+                    -->
+
+                    <li>Code of the template with comment</li>
+                    <!-- This section show some particular code of the template section -->
+                </ul>
+            </div>
+            <div id="footer">
+                <h2>Footer</h2>
+                <p>Warning : something something </p>
+            </div>
+        </div>
+    </body>
+</html>
+<!--
+    Bibliography :
+        The grid is inspired by : Angela Delise in the video : https://www.youtube.com/watch?v=68O6eOGAGqA
+
+
+-->
