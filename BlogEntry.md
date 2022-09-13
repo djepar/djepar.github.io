@@ -16,4 +16,8 @@ I watch for 30 minutes a video on youtube where nothing work on my computer unti
 #### Web-Dev
 I create the blog page. 
 I continue the Programming with JavaScript of the MetaCourse, I saw again : Arrays, Objets and Functions (nothing new)
+Creation of another web-site which will be the manual of computer science. 
+
+#### OS
+Trying to understand PXEBoot and learn more about FTP, SFTP and TFTP.
 
