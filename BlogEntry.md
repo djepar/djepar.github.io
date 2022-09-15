@@ -26,3 +26,7 @@ Trying to understand PXEBoot and learn more about FTP, SFTP and TFTP.
 Work the whole day on the Coursera Meta Course on Javascript. 
 Learn mostly about : for in...  for of..., error handling and data structure
  
+### 15 September 2022 
+
+#### To DO
+This day, I need to finish the JavaScript Meta-Coursera course. 
