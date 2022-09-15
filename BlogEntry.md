@@ -30,3 +30,6 @@ Learn mostly about : for in...  for of..., error handling and data structure
 
 #### To DO
 This day, I need to finish the JavaScript Meta-Coursera course. 
+
+- Rest and Spread
+- Arrow Functions
