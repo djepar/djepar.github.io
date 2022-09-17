@@ -18,7 +18,7 @@ I create the blog page.
 I continue the Programming with JavaScript of the MetaCourse, I saw again : Arrays, Objets and Functions (nothing new)
 Creation of another web-site which will be the manual of computer science. 
 
-#### OS
+#### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Trying to understand PXEBoot and learn more about FTP, SFTP and TFTP.
 
 ### 14 september 2022
@@ -37,11 +37,14 @@ Continue working on the JavaScript Meta course.
 ### 16 September 2022
 #### Web-Dev
 Finished the JavaScript course, by doing the error handling exercices and the wrap-up. 
-#### OS
+#### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Continue working on the System administration course.
 Worked on FTP, SFTP, TFTP, DNS, DHCP and managing service for Linux and Windows. 
 
 ### 17 September 2022
+#### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finish Week3 for the system admin : Services, managing cloud resources, print platform services (apaches2) troubleshooting platform services.
+Work on weeks 4 : learn the introduction of directory services. 
 
 
 
