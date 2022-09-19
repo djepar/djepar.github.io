@@ -55,3 +55,6 @@ I learn about the Open Graph Protocol to do social media card and such.
 #### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Did a little bit of Active Directory, but I got a problem on my virtual machine telling me that I need to be part of a domain. 
 
+### 19 Septembre 2022
+#### Web-dev (Meta Coursera Course 3 : HTML and CSS in depth)
+Ended the first week, learn about : canvas, iFrame, embedded video and audio.  
