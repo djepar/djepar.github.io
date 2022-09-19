@@ -58,3 +58,4 @@ Did a little bit of Active Directory, but I got a problem on my virtual machine 
 ### 19 Septembre 2022
 #### Web-dev (Meta Coursera Course 3 : HTML and CSS in depth)
 Ended the first week, learn about : canvas, iFrame, embedded video and audio.  
+Start the second week : done the creation of a layout with CSS grid and flex. (I have also done those exercices https://cssgridgarden.com/ and https://flexboxfroggy.com/). I have also done the CSS selectors and done most of the CSS effects. 
