@@ -11,6 +11,6 @@ Blog layout (for the blog layout)
 
 Dashbord layout (for the medical thingy)
 
-Linter the code
+Fix linter
 
 Change all the css  to scss
