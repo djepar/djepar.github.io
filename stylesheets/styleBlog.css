@@ -1,5 +1,5 @@
-#info {
-    grid-area : info;
+#intro {
+    grid-area : intro;
 }
 .container {
     display: grid;
@@ -8,7 +8,7 @@
     grid-template-rows: 0.2fr 2fr 0.6fr ;
     grid-template-areas: 
     "nav nav nav nav"
-    "info info info info"
+    "intro intro intro intro"
     "main main main main"
     "footer footer footer footer";
     grid-gap: 0.2rem;

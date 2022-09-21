@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 :root {
     --main-radius:5px;
@@ -20,10 +20,10 @@ body {
 .menu ul li a{
     display: inline-flex;
    text-decoration: none;
-   text-shadow: 0px 1px 3px black;
-   color: rgba(255, 255, 255, 0.942);
+   text-shadow: 0px 1px 3px #000000;
+   color: rgba(51, 252, 81, 0.942);
    padding: 5px 20px; 
-   font-family:Verdana, Geneva, Tahoma, sans-serif
+   font-family:'Courier New', Courier, monospace;
 }
 .menu li a{
     transition: 0.3s;
@@ -37,7 +37,8 @@ body {
     background-color :rgb(0, 0, 0)
 }
 .container {
-    font-family: 'Times New Roman', Times, serif;
+    color :rgba(51, 252, 81, 0.942);
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
     box-sizing: border-box;
 }
@@ -55,7 +56,6 @@ h2 {
 nav {
     display: inline-flex;
     flex-flow: row-wrap;
-    background-color: black;
     grid-area: nav;
     justify-content: stretch;
     border-radius:var(--main-radius);
@@ -66,35 +66,35 @@ nav {
 main {
    
     grid-area: main;
-    border : solid rgb(0, 0, 0);
+    border : solid rgb(122, 255, 239);
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #sidebar {
    
     grid-area: sidebar;
-    border : solid rgb(0, 0, 0);
+    border : solid rgb(122, 255, 239);
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content1 {
 
     grid-area: content1;
-    border : solid rgb(0, 0, 0);
+    border : solid  rgb(122, 255, 239);
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content2 {
    
     grid-area: content2;
-    border : solid rgb(0, 0, 0);
+    border : solid  rgb(122, 255, 239);
 
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content3 {
      grid-area: content3;
-    border : solid rgb(0, 0, 0);
+    border : solid  rgb(122, 255, 239);
 
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
@@ -112,7 +112,6 @@ img {
     max-width: 800px;
     height: auto;
   }
-
 @media only screen and (max-width:635){
     /*.menu > ul > li {
         display :contents;      RESOUDRE LE PROBLEME AVEC LE NAV BAR QUI FUCK QUAND PETIT MERCI
