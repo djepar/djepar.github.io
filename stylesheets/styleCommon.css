@@ -60,7 +60,7 @@ nav {
     justify-content: stretch;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
-    
+    border :rgb(122, 255, 239) solid 1px;
 }
 
 main {
@@ -102,7 +102,7 @@ main {
 #footer {
    
     grid-area: footer;
-    border : solid rgb(0, 0, 0);
+    border : solid rgb(122, 255, 239);
 
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
@@ -112,9 +112,3 @@ img {
     max-width: 800px;
     height: auto;
   }
-@media only screen and (max-width:635){
-    /*.menu > ul > li {
-        display :contents;      RESOUDRE LE PROBLEME AVEC LE NAV BAR QUI FUCK QUAND PETIT MERCI
-    }
-    */              
-}

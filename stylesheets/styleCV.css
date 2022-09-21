@@ -1,7 +1,7 @@
 #next, #previous {
-    display: inline-block;
+    display: inline;
     border-radius: 4px;
-    background-color: black;
+    background-color: rgb(64, 64, 243);
     border: none;
     color: #FFFFFF;
     text-align: center;

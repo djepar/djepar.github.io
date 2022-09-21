@@ -1,5 +1,9 @@
 #intro {
     grid-area : intro;
+    border :rgb(122, 255, 239) solid;
+    
+    border-radius:var(--main-radius);
+    
 }
 .container {
     display: grid;
@@ -22,7 +26,7 @@
         grid-template-rows: 0.8fr 0.8fr 1.2fr 1fr;
         grid-template-areas: 
         "nav"
-        "info"
+        "intro"
         "main"
         "footer"
     }
