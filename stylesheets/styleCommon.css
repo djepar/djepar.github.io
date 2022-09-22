@@ -61,6 +61,7 @@ nav {
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
     border :rgb(122, 255, 239) solid 1px;
+    position: fixed; /* Need to be resolve*/
 }
 
 main {

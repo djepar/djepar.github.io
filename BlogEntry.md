@@ -5,7 +5,7 @@
 ## From the 12 - 18 of september
 Goals 
 - Master the basic of multiprocessing (for the course Google Automation : Troubleshooting)
-- 
+
 
 ### 12 of September
 #### Python : 
@@ -55,6 +55,13 @@ I learn about the Open Graph Protocol to do social media card and such.
 #### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Did a little bit of Active Directory, but I got a problem on my virtual machine telling me that I need to be part of a domain. 
 
+## 18 to the 25th of September 2022
+Goals
+- Finish mastering multiprocessing (I ended up not finishing it last week)
+- Finish Meta HTML course
+- End Active Directory
+
+
 ### 19 September 2022
 #### Web-dev (Meta Coursera Course 3 : HTML and CSS in depth)
 Ended the first week, learn about : canvas, iFrame, embedded video and audio.  
@@ -62,8 +69,15 @@ Start the second week : done the creation of a layout with CSS grid and flex. (I
 
 ### 20 September 2022
 (was sick so didn't work that much)
-#### Web-dev (Meta Coursera Course 3 : HTML and CSS in depth)
+#### Web-dev 
+##### (Meta Coursera Course 3 : HTML and CSS in depth)
 Work on the end of the second week. Learn more about the animation, mostly keymores. 
 I learn about preprocessor and watch/did a tutorial on youtube about scss.
 Learn about linter : to check for error and bad practice. 
 
+### 21 september 2022
+(still a bit sick and change place because I sprain my foot and was living in a mezzanine bed)
+
+#### Web-dev 
+##### (Meta Coursera Course 3 : HTML and CSS in depth)
+Finished 
