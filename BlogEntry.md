@@ -79,5 +79,21 @@ Learn about linter : to check for error and bad practice.
 (still a bit sick and change place because I sprain my foot and was living in a mezzanine bed)
 
 #### Web-dev 
-##### (Meta Coursera Course 3 : HTML and CSS in depth)
-Finished 
+##### Meta Coursera Course 3 : HTML and CSS in depth
+Finished the end of the second week. I start the final project
+
+### 22 september 2022
+
+#### Web-dev 
+##### Meta Coursera Course 3 : HTML and CSS in depth
+Continue the final project and I have done some tutorial for flexbox and grid because I was rushing to do a good layout. 
+#### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Start the course and I have done the normal flow. 
+
+### 22 september 2022
+
+#### Web-dev 
+##### Meta Coursera Course 3 : HTML and CSS in depth
+Finish the final project, it's not good enough for me, but the layout is so bad, I will not waste more time on this if I pass. I will do other layout better, or start from scratch if I fail the peer-review. 
+#### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I continue the NIIT course. I have learn the float property and the clearfix hack. 
