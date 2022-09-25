@@ -90,10 +90,19 @@ Continue the final project and I have done some tutorial for flexbox and grid be
 #### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Start the course and I have done the normal flow. 
 
-### 22 september 2022
+### 23 september 2022
 
 #### Web-dev 
 ##### Meta Coursera Course 3 : HTML and CSS in depth
 Finish the final project, it's not good enough for me, but the layout is so bad, I will not waste more time on this if I pass. I will do other layout better, or start from scratch if I fail the peer-review. 
 #### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I continue the NIIT course. I have learn the float property and the clearfix hack. 
+
+### 24 september 2022
+#### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I did the first lab, it's went really well, it's was to make three nav bar. 
+I start the second lab which was to make a layout with 24 blocks of differents height, I didn't finish.
+
+
+##### Meta front-End Coursera Course 4 : Basic React
+Start learning the basic of React. I install it and read more about the modules exportation and importation in JavaScript. 

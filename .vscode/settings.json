@@ -669,5 +669,6 @@
         }
     },
     "linter.debug": true,
-    "linter.enabled": true
+    "linter.enabled": true,
+    "liveServer.settings.port": 5501
 }
