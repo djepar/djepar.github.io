@@ -16,6 +16,7 @@ Fix linter
 Change all the css  to scss
 
 Style :
+    Add something between the navbar and the container. 
     
 
 Create a form and add a google map position --> Contact us
