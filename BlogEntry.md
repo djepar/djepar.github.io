@@ -106,3 +106,10 @@ I start the second lab which was to make a layout with 24 blocks of differents h
 
 ##### Meta front-End Coursera Course 4 : Basic React
 Start learning the basic of React. I install it and read more about the modules exportation and importation in JavaScript. 
+
+##### 25 september 2022
+##### Meta front-End Coursera Course 4 : Basic React
+Almost finish the first week of React basis. I have learn and read about the basic syntax of JSX, learn about components, props and how to use them. 
+
+##### djepar.github.io
+I put a glowing effect in the text and I arrange the fixed navbar.
