@@ -149,3 +149,7 @@ Watch this video : https://www.youtube.com/watch?v=nx1tOOc_3fU
 - More Border-radius make the form look more important
 - Sharp corner are consider salient.
 - Filled button are more important to the subconscious
+  
+### Meta front-End Coursera Course 4 : Basic React
+Still at Week2 :
+Learn the difference between calling() and passing and how to pass a parameter when passing a function.
