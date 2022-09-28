@@ -122,6 +122,9 @@ I continue React Basis and such.
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Continue the masonry layout in vain... but was still a bit better afterward. 
 
+### UX
+Work on the Google UX course 2. 
+
 ## 27 September 2022 
 
 ### Code Wars : JavaScript
@@ -138,3 +141,11 @@ Work a bit more on Active Directory.
 
 ### Code Wars : JavaScript
 I finish two more challenges which help me work with arrays. To sort an array of number in JavaScript, it's important to put a comparative function in the sort()
+
+### Animation and UI
+Watch this video : https://www.youtube.com/watch?v=nx1tOOc_3fU
+- Border of table should be thin and low contrast
+- Keep enemy and friends separate for ambiguity (like button or indication)
+- More Border-radius make the form look more important
+- Sharp corner are consider salient.
+- Filled button are more important to the subconscious
