@@ -9,7 +9,7 @@ Carousel layout:
 
 Blog layout (for the blog layout)
 
-Dashbord layout (for the medical thingy)
+Doing a matrix animation 
 
 Fix linter
 
@@ -20,3 +20,4 @@ Style :
     
 
 Create a form and add a google map position --> Contact us
+
