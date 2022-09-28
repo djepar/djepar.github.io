@@ -114,11 +114,27 @@ Almost finish the first week of React basis. I have learn and read about the bas
 ### djepar.github.io
 I put a glowing effect in the text and I arrange the fixed navbar.
 
-## 26 September 2022 
 
-### Code Wars
+
+## 26 September 2022
+### Meta front-End Coursera Course 4 : Basic React
+I continue React Basis and such. 
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Continue the masonry layout in vain... but was still a bit better afterward. 
+
+## 27 September 2022 
+
+### Code Wars : JavaScript
 I finish Sum of the first nth term of Series, which help me understand more about rounding number. 
 
 ### Meta front-End Coursera Course 4 : Basic React
 Finished week 1 with JSX basic and such. 
-Start week 2 and event handler. 
+Start week 2 : Learn more about binding object (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind). Would need to dive more into it later. 
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Work a bit more on Active Directory.  
+
+## 28 September 2022
+
+### Code Wars : JavaScript
+I finish two more challenges which help me work with arrays. To sort an array of number in JavaScript, it's important to put a comparative function in the sort()
