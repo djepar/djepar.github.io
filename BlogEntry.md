@@ -156,3 +156,8 @@ Learn the difference between calling() and passing and how to pass a parameter w
 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 More tutorial to do the mansonry grid.
+
+## 29 September 2022
+### Code Wars : JavaScript
+Finish two challenges, one simple about array and multiplication of it's element and one about Regex. 
+
