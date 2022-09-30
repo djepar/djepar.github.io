@@ -161,3 +161,19 @@ More tutorial to do the mansonry grid.
 ### Code Wars : JavaScript
 Finish two challenges, one simple about array and multiplication of it's element and one about Regex. 
 
+### Meta front-End Coursera Course 4 : Basic React
+Finished Week2 : learn more about how data travel and how stateful and stateless data work. 
+Watch the unveiled of the async rendering unlocks : (https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Work a bit more on Active Directory. 
+
+## 30 September 2022
+### Code Wars : JavaScript
+Finish one easy challenge, but use it to practice the arrow function and try to understand and do the sigma summation (the easy way is to do `((max-min)+1)* (max+min) / 2)`
+
+
+
+
+TO DO :
+PRACTICE SPREAD... IN JS
