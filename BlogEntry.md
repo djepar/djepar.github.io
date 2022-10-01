@@ -172,6 +172,26 @@ Work a bit more on Active Directory.
 ### Code Wars : JavaScript
 Finish one easy challenge, but use it to practice the arrow function and try to understand and do the sigma summation (the easy way is to do `((max-min)+1)* (max+min) / 2)`
 
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the Active Directory Thing
+
+
+### Meta front-End Coursera Course 4 : Basic React
+I have been doing some of the reading of the second week.
+
+## 1 of October 2022
+### Code Wars : JavaScript
+Finish another challenge
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the Active Directory Thing
+
+
+### Meta front-End Coursera Course 4 : Basic React
+I have been doing some more reading of the second week. 
+
+### Cookiepedia
+I have start my project of cooking website for the purpose of practicing the tutorial of https://beta.reactjs.org/learn/thinking-in-react
 
 
 
