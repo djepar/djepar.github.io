@@ -200,9 +200,14 @@ I have start my project of cooking website for the purpose of practicing the tut
 I have done another solution for the TwoSums problems, but it's was worst then the first one in term of stat. 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I have succeeded the masonry challenge. 
+### CodeWars
+I have complete another really easy challenge
 
+### Beta.react.js
+Most of my time today have been dedicated to work on the tutorial-manual of the React documentation.
 
 
 
 TO DO :
 PRACTICE SPREAD... IN JS
+PRACTICE MAP IN JS
