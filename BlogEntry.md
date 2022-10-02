@@ -194,6 +194,15 @@ I have been doing some more reading of the second week.
 I have start my project of cooking website for the purpose of practicing the tutorial of https://beta.reactjs.org/learn/thinking-in-react
 
 
+## 2 of october 
+
+### Algorithm and LeetCode
+I have done another solution for the TwoSums problems, but it's was worst then the first one in term of stat. 
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I have succeeded the masonry challenge. 
+
+
+
 
 TO DO :
 PRACTICE SPREAD... IN JS
