@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMatrix Testing </title>
+    <script href="/scripts/cmatrix.js" defer></script>
+    <style>
+        body {
+            display : flex;
+            justify-content: center;
+            background-color : black;
+        }
+        #Btn-balls{
+            height : 50px;
+            width : auto;
+            border :rgb(255, 255, 255) solid 2px;
+            background:rgb(68, 252, 124);
+            border-radius: 10%;
+        }
+        @keyframes bounce {
+            from { transform: translate3d(0, 0, 0);     }
+            to   { transform: translate3d(0, 800px, 0); }
+        }
+        .green-ball{
+            height : 100px;
+            border : rgb(68, 252, 124) solid 2px;
+            width : 100px;
+            color :rgb(68, 252, 124);
+            border-radius: 50%;
+            animation: bounce 5s;
+            animation-direction: down;
+            animation-iteration-count: infinite;
+        }
+        div {
+            height : 100px;
+            border : rgb(68, 252, 124) solid 2px;
+            width : 100px;
+            color :rgb(68, 252, 124);
+            border-radius: 50%;
+            animation: bounce 5s;
+            animation-direction: down;
+            animation-iteration-count: infinite;
+        }
+        p{
+            animation : bounce 5s;
+            color :rgb(68, 252, 124);
+            font-family: sans-serif;
+            animation-direction: down;
+            animation-iteration-count: infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="green-ball">
+    </div>
+    <button id="Btn-balls">
+        More balls
+    </button>
+    <p>P</p>
+    <button id="test">
+        TEst
+    </button>
+</body>
+</html>
