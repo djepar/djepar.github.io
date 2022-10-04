@@ -6,17 +6,10 @@ function randomChar(){
 }
 
 console.log(randomChar())
-function createDiv(){
-    var newdiv = document.createElement("div");
-    document.body.appendChild(newdiv);
-}
 
-document.getElementById("Btn-balls").document.addEventListener("click", createDiv);
-
-function createP(){
-    var newP = document.createElement("p");
-    newP.id
-    newP.innerHTML = "PPPPPP"
-    document.body.appendChild(newP)
-}
-document.getElementById("test").document.addEventListener("click", createP);
+ballcontainer = getElementById("second-container")
+document.getElementById("myBtn").addEventListener("click", function() {
+    let newDiv = document.createElement("div");
+    newDiv.className = "green-ball"
+    document.body.ballcontainer.appendChild(newDiv)
+});
