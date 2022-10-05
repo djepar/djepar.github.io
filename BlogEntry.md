@@ -206,6 +206,21 @@ I have complete another really easy challenge
 ### Beta.react.js
 Most of my time today have been dedicated to work on the tutorial-manual of the React documentation.
 
+## 3 of october 
+ 
+### CodeWars
+I have complete another challenge
+
+### Beta.react.js
+Mostly working on the beta tutorial again
+
+## 4 of october 
+ 
+### CodeWars
+Another challenge
+
+### Beta.react.js
+Mostly working on the beta tutorial again and I have modified the example to use for cookiepedia.
 
 
 TO DO :
