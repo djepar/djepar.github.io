@@ -222,6 +222,8 @@ Another challenge
 ### Beta.react.js
 Mostly working on the beta tutorial again and I have modified the example to use for cookiepedia.
 
+### djepar.github.io
+Work also on the Cmatrix animation, I have now done the falling done animation, but with a Div, now I need to do it with letter and all.
 
 TO DO :
 PRACTICE SPREAD... IN JS
