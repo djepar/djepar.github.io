@@ -244,7 +244,8 @@ Still working on the tutorial. Work on event handler and how to apply it to cook
 ### Algorithm
 Learn more about the greedy algorithm
 
-
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I started the Global sanctuary challenge. I did the nav bar, the general layout and a bit of css styling. 
 TO DO :
 PRACTICE SPREAD... IN JS
 PRACTICE MAP IN JS
