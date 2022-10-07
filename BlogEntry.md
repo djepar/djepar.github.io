@@ -203,7 +203,7 @@ I have succeeded the masonry challenge.
 ### CodeWars
 I have complete another really easy challenge
 
-### Beta.react.js
+### Beta.reactjs
 Most of my time today have been dedicated to work on the tutorial-manual of the React documentation.
 
 ## 3 of october 
@@ -211,7 +211,7 @@ Most of my time today have been dedicated to work on the tutorial-manual of the 
 ### CodeWars
 I have complete another challenge
 
-### Beta.react.js
+### Beta.reactjs
 Mostly working on the beta tutorial again
 
 ## 4 of october 
@@ -219,11 +219,31 @@ Mostly working on the beta tutorial again
 ### CodeWars
 Another challenge
 
-### Beta.react.js
+### Beta.reactjs
 Mostly working on the beta tutorial again and I have modified the example to use for cookiepedia.
 
 ### djepar.github.io
 Work also on the Cmatrix animation, I have now done the falling done animation, but with a Div, now I need to do it with letter and all.
+
+## 5 of October 
+
+### CodeWars
+One challenge complete (I think)
+
+### Beta.Reactjs
+Still working on the tutorial
+
+## 6 of October 
+### Leetcode
+I try to do a simple add two number thing in leetcode, but end up that I need to use linked list, which I don't know how to use. 
+### Beta.Reactjs
+Still working on the tutorial. Work on event handler and how to apply it to cookiepedia
+
+## 7 of October
+
+### Algorithm
+Learn more about the greedy algorithm
+
 
 TO DO :
 PRACTICE SPREAD... IN JS
