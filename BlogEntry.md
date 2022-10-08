@@ -246,6 +246,23 @@ Learn more about the greedy algorithm
 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I started the Global sanctuary challenge. I did the nav bar, the general layout and a bit of css styling. 
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the Active Directory Quiz
+
+## 8 of October
+### Algorithm 
+Finish the isPalindrome challenge of LeetCode
+I also finished the next assignment for the computational thinking algorithm. 
+
+## React Documentation
+I have read :
+- State: A Component's Memory 
+- Render and Commit
+- Sharing State Between Components 
+- State as a Snapshot 
+- Basic useState examples 
+- Synchronizing with effects - putting it all together 
+
 TO DO :
 PRACTICE SPREAD... IN JS
 PRACTICE MAP IN JS
