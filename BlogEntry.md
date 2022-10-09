@@ -254,14 +254,31 @@ Finished the Active Directory Quiz
 Finish the isPalindrome challenge of LeetCode
 I also finished the next assignment for the computational thinking algorithm. 
 
-## React Documentation
-I have read :
+### React Documentation
+I have read and done the challenge of those pages :
 - State: A Component's Memory 
 - Render and Commit
 - Sharing State Between Components 
 - State as a Snapshot 
 - Basic useState examples 
+
+## 9 of october 
+### React Documentation
+I have read and done the challenge of those pages :
 - Synchronizing with effects - putting it all together 
+Also read : 
+- https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I continue the Global sanctuary challenge. I work a bit more on the nav bar and I start the mission goal layout and style. 
+
+### Algorithm
+Finished to peer-reviewed the assignment. 
+Starting the history of the computer. 
+
+
+
 
 TO DO :
 PRACTICE SPREAD... IN JS
