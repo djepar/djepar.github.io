@@ -278,6 +278,25 @@ Finished to peer-reviewed the assignment.
 Starting the history of the computer. 
 
 
+## 10 of October
+### Algorithm 
+Learn about the Neumann Architecture Data, did the assignment and peer-graded the assignment. 
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I continue the Global sanctuary challenge. I did the photo grid, but there is still some adjustment to do on it.
+
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the first part of the backup section.
+
+### Meta front-End Coursera Course 4 : Basic React
+Finished the Linking and Routing section :
+- Basic Types of Navigation
+- Navigation
+- Navbar
+- Cerating a route
+- Conditional rendering|components
+- Single view conditional update
 
 
 TO DO :
