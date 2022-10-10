@@ -4,12 +4,19 @@ function randomChar(){
     num = Math.floor(Math.random() * 200) + 33;
     return String.fromCharCode(num);
 }
-function bonjour(){
-    console.log((randomChar()));
-    
 
+function createChar(){
+    const rand = randomChar()
+    const newChar = document.createElement("p");
+    const container = document.getElementById("container");
+    newChar.innerHTML = rand
+    container.appendChild(newChar)
+    console.log(rand)
+   
 }
-setInterval(bonjour(), 400)
+
+setInterval(createChar, 380)
+
 
 /* Creating balls or letter with a button
 let ballcontainer = document.getElementById("second-container");
