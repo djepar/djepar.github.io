@@ -318,6 +318,12 @@ Finished the Linking and Routing sections :
 ### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Finished the Data Recovery and Backups, with the post-mortem section, only have to finished the quizz of this section.
 
+### Meta front-End Coursera Course 4 : Basic React
+Finished the last project
+
 TO DO :
 PRACTICE SPREAD... IN JS
 PRACTICE MAP IN JS
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I continue the Global sanctuary challenge. I did most of the html for the footer
