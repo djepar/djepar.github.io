@@ -290,7 +290,7 @@ I continue the Global sanctuary challenge. I did the photo grid, but there is st
 Finished the first part of the backup section.
 
 ### Meta front-End Coursera Course 4 : Basic React
-Finished the Linking and Routing section :
+Finished thoses Linking and Routing sections :
 - Basic Types of Navigation
 - Navigation
 - Navbar
@@ -298,6 +298,25 @@ Finished the Linking and Routing section :
 - Conditional rendering|components
 - Single view conditional update
 
+## 11 of October
+### Algorithm
+Did the most part of the pseudocode section of the UPen course. 
+Finish another part of the roman numeral encoder
+
+
+### Meta front-End Coursera Course 4 : Basic React
+Finished the Linking and Routing sections :
+- What is an asset and where does it live?
+- Bundling assets
+- Using embedded assets
+- Displaying images
+- Audio and video
+- Media packages
+- Song selection exercices
+- Quizz
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the Data Recovery and Backups, with the post-mortem section, only have to finished the quizz of this section.
 
 TO DO :
 PRACTICE SPREAD... IN JS
