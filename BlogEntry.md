@@ -327,3 +327,7 @@ PRACTICE MAP IN JS
 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I continue the Global sanctuary challenge. I did most of the html for the footer
+
+## 12 octobre 2022
+### Algorithm
+Finished the last assignment of this section (pseudocode). 
