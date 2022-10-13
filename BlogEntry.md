@@ -335,3 +335,13 @@ Finished the last assignment of this section (pseudocode).
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I continue the Global sanctuary challenge. 
 I succeeded all the test, but I still have a lot of things to do style-wise.
+
+### Introduction to Databases for Back-End Development by Meta
+Start the course, and did a bit of the introduction where we 
+
+## 13 october
+### Python
+Did most of the Computational Thinking for Problem Solving section.
+
+### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+Finished the course :)
