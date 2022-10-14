@@ -332,9 +332,6 @@ I continue the Global sanctuary challenge. I did most of the html for the footer
 ### Algorithm
 Finished the last assignment of this section (pseudocode). 
 
-### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
-I continue the Global sanctuary challenge. 
-I succeeded all the test, but I still have a lot of things to do style-wise.
 
 ### Introduction to Databases for Back-End Development by Meta
 Start the course, and did a bit of the introduction where we 
@@ -342,6 +339,19 @@ Start the course, and did a bit of the introduction where we
 ## 13 october
 ### Python
 Did most of the Computational Thinking for Problem Solving section.
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I continue the Global sanctuary challenge. 
+I succeeded all the test, but I still have a lot of things to do style-wise.
+Thinking of not finishing this course, the quizz was full of mistake and it's seems to be made so quickly, probably better to do something else.
 
 ### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Finished the course :)
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+
+
+## 14 october
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Succeded the quiz.
+### Algorithm 
+Finished the Computational thinking course :)
