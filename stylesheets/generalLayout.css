@@ -1,0 +1,45 @@
+
+main {
+   
+    grid-area: main;
+    border : solid rgb(122, 255, 239);
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}
+#sidebar {
+   
+    grid-area: sidebar;
+    border : solid rgb(122, 255, 239);
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}
+#content1 {
+
+    grid-area: content1;
+    border : solid  rgb(122, 255, 239);
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}
+#content2 {
+   
+    grid-area: content2;
+    border : solid  rgb(122, 255, 239);
+
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}
+#content3 {
+     grid-area: content3;
+    border : solid  rgb(122, 255, 239);
+
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}
+#footer {
+   
+    grid-area: footer;
+    border : solid rgb(122, 255, 239);
+
+    border-radius:var(--main-radius);
+    padding-top:var(--main-padding);
+}

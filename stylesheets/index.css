@@ -1,0 +1,12 @@
+.choice-box{
+    display : flex;
+    padding-top : 100px;
+    justify-content: space-around;
+}
+.choice-box > div {
+    width : 250px;
+    height : 250px;
+    border :rgb(122, 255, 239) solid 2px;
+    color : green;
+    text-align: center;
+}
