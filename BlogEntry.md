@@ -355,3 +355,6 @@ Finished the course :)
 Succeded the quiz.
 ### Algorithm 
 Finished the Computational thinking course :)
+
+### djepar.github.io
+Change the index and migrate the css to generalLayout
