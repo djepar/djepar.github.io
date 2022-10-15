@@ -12,17 +12,24 @@ function generateOne(i){
     container.appendChild(newChar)
     console.log(rand)
 }
-function generateAll(){
+async function generateAll(){
 
     for (let i = 0; i < 30; i++){
+        await sleep(0.05);
         setTimeout(generateOne(i), 380)
     }
     
 
    
 }
+async function sleep(seconds){
+    return new Promise(resolve=>setTimeout(resolve, seconds * 1000));
+}
+for (let i = 0; i < 30; i++){
+    setInterval(generateAll(), 500)
+}
+ 
 
-setInterval(generateAll, 180)
 /* Creating balls or letter with a button
 let ballcontainer = document.getElementById("second-container");
 let BallCreator = document.getElementById("myBtn");

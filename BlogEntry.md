@@ -353,8 +353,20 @@ Finished the course :)
 ## 14 october
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Succeded the quiz.
+I also start and finished the videos of the second section
 ### Algorithm 
 Finished the Computational thinking course :)
 
 ### djepar.github.io
 Change the index and migrate the css to generalLayout
+
+### cookiepedia
+put some style and fix the image of the navbar. 
+
+## 15 october
+
+## Math
+Continue the algebra course. I will need to finish algebra to do calculus to do the algorithm course.
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Finished the first challenge of this section and I started the second one. 
+
