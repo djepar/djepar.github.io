@@ -351,6 +351,8 @@ Finished the course :)
 
 
 ## 14 october
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Start the new course
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Succeded the quiz.
 I also start and finished the videos of the second section
@@ -370,3 +372,11 @@ Continue the algebra course. I will need to finish algebra to do calculus to do 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Finished the first challenge of this section and I started the second one. 
 
+### djepar.github.io
+Work on cmatrix, it's still clumsy, but I had another timer while adding the async properties to the function generaleAll().
+
+### Cookiepedia
+Adding an About Us page, and more importantly, adding the generating recipe to generate the recipe on the recipes page. 
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Finished the malicious software session and start the network attacks session.
