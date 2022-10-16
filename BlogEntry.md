@@ -180,7 +180,7 @@ Finished the Active Directory Thing
 I have been doing some of the reading of the second week.
 
 ## 1 of October 2022
-### Code Wars : JavaScript
+### CodeWars 
 Finish another challenge
 
 ### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
@@ -355,7 +355,7 @@ Finished the course :)
 Start the new course
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Succeded the quiz.
-I also start and finished the videos of the second section
+I also start and finished the videos of week 2
 ### Algorithm 
 Finished the Computational thinking course :)
 
@@ -370,7 +370,7 @@ put some style and fix the image of the navbar.
 ## Math
 Continue the algebra course. I will need to finish algebra to do calculus to do the algorithm course.
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
-Finished the first challenge of this section and I started the second one. 
+Finished the first challenge of Week 2 and I started the second one. 
 
 ### djepar.github.io
 Work on cmatrix, it's still clumsy, but I had another timer while adding the async properties to the function generaleAll().
@@ -380,3 +380,22 @@ Adding an About Us page, and more importantly, adding the generating recipe to g
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Finished the malicious software session and start the network attacks session.
+
+## 16 october
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Finished the second challenge of Week 2.
+## Math
+Finished the quizz for the first week of algebra and finished the 2 videos of the week after that. 
+
+
+### React Documentation
+Finish reading Queueing a Series of State Updates
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Start the course and watch some of the Week 1 video.
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Read more about DDoS and start the section of Other Attacks.
+
+### Codewars
+Finish the rgb converter
