@@ -384,7 +384,7 @@ Finished the malicious software session and start the network attacks session.
 ## 16 october
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Finished the second challenge of Week 2.
-## Math
+### Math
 Finished the quizz for the first week of algebra and finished the 2 videos of the week after that. 
 
 
@@ -399,3 +399,13 @@ Read more about DDoS and start the section of Other Attacks.
 
 ### Codewars
 Finish the rgb converter
+
+## 17 of october
+### Math
+Try the first quizz of Week2 of algebra but fail at 78%.
+
+### Codewars
+Finish a string challenge.
+
+### Cookiepedia
+Generating more precise recipe from json format.
