@@ -334,7 +334,7 @@ Finished the last assignment of this section (pseudocode).
 
 
 ### Introduction to Databases for Back-End Development by Meta
-Start the course, and did a bit of the introduction where we 
+Start the course, and did a bit of the introduction
 
 ## 13 october
 ### Python
@@ -347,7 +347,6 @@ Thinking of not finishing this course, the quizz was full of mistake and it's se
 ### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
 Finished the course :)
 
-### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 
 
 ## 14 october
@@ -409,3 +408,14 @@ Finish a string challenge.
 
 ### Cookiepedia
 Generating more precise recipe from json format.
+
+### Introduction to Databases for Back-End Development by Meta
+Do the reading : Database Evolution, did the Practice Quiz and start the additional reading of the  "Databases and data" section".
+
+## 18 of october
+### Introduction to Databases for Back-End Development by Meta
+I finished the additional reading of the "Databases and data" section".
+Finished the Intro to SQL part (quiz and additional resources include)
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Finished the Symmetric Encryption sectoin and the Public Key or Asymmetric Encryption section.
