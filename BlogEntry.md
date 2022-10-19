@@ -419,3 +419,15 @@ Finished the Intro to SQL part (quiz and additional resources include)
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Finished the Symmetric Encryption sectoin and the Public Key or Asymmetric Encryption section.
+
+## 19 of october
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Continue the last challenge of week 2. I resolve slightly the srcset, but the image size is weird...
+Read some of the additional reading: 
+- https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
+- https://alistapart.com/article/responsive-web-design/
+### Math
+Finish the first section week2 quiz. 
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Finish the section about Hashing 
