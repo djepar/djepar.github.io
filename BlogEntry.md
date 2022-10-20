@@ -431,3 +431,13 @@ Finish the first section week2 quiz.
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Finish the section about Hashing 
+
+### Wargames 
+Did 2-3 picoCTF challenges.
+
+# 20 of october
+### Math
+Finish the second section reading and preparatory quiz.
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Work on the Cryptography applications section. 
