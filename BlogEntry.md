@@ -441,3 +441,11 @@ Finish the second section reading and preparatory quiz.
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Work on the Cryptography applications section. 
+
+## 21 of october
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Work on the first week challenge.
+
+ ### UX
+Work on the Google UX course 2.  
+
