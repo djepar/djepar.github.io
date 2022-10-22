@@ -461,3 +461,7 @@ Read some of the additional reading:
 - https://www.impactplus.com/blog/responsive-design-best-practices#:~:text=For%20an%20optimal%20responsive%20experience,down%20to%20400px%20once%20loaded.
   - https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
 - https://alistapart.com/article/responsive-web-design/
+- https://uxplanet.org/golden-ratio-bring-balance-in-ui-design-765c954f0ff9#:~:text=The%20golden%20ratio%20is%20a,probably%20seen%20on%20the%20Internet.
+- https://css-tricks.com/a-complete-guide-to-css-media-queries/
+
+I finished the quiz of week2.
