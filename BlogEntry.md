@@ -446,6 +446,18 @@ Work on the Cryptography applications section.
 ### Building Interactive Web Pages Using Modern JavaScript by NIIT
 Work on the first week challenge.
 
- ### UX
+### UX
 Work on the Google UX course 2.  
 
+## 22 of october
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Still working on the first week challenge. Now 3/7 work, but they are still some problem with a couple of them.
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Continue the last challenge of week 2.  
+Read some of the additional reading: 
+
+- https://www.impactplus.com/blog/responsive-design-best-practices#:~:text=For%20an%20optimal%20responsive%20experience,down%20to%20400px%20once%20loaded.
+  - https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/
+- https://alistapart.com/article/responsive-web-design/
