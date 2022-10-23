@@ -468,7 +468,18 @@ Read some of the additional reading:
 I finished the quiz of week2.
 
 ### Start the UX Design Process: Empathize, Define, and Ideate by Google
-Finish the first week challenge
+Finish the first week challenge (persona)
 
 ### Introduction to Databases for Back-End Development by Meta
-Start week 2, the SQL data types sections. 
+Start week 2, the SQL data types section. 
+
+## 23 of october
+### Introduction to Databases for Back-End Development by Meta
+I continue week 2, the SQL data types section.
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Still working on the first week challenge. Now 5/7 work, but they are still some problem with a couple of them.
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google
+Finish the video and the second week challenge (user map)
+Start the third week.
