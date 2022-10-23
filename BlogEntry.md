@@ -122,8 +122,9 @@ I continue React Basis and such.
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Continue the masonry layout in vain... but was still a bit better afterward. 
 
-### UX
-Work on the Google UX course 2. 
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google 
+View some video of the first week. 
 
 ## 27 September 2022 
 
@@ -465,3 +466,9 @@ Read some of the additional reading:
 - https://css-tricks.com/a-complete-guide-to-css-media-queries/
 
 I finished the quiz of week2.
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google
+Finish the first week challenge
+
+### Introduction to Databases for Back-End Development by Meta
+Start week 2, the SQL data types sections. 
