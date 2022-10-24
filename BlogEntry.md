@@ -483,3 +483,9 @@ Still working on the first week challenge. Now 5/7 work, but they are still some
 ### Start the UX Design Process: Empathize, Define, and Ideate by Google
 Finish the video and the second week challenge (user map)
 Start the third week.
+
+## 24 of october
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google
+Finish the third week about user map
+Start the fourth weeks about ideation process.
