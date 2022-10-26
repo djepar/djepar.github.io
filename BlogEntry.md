@@ -489,3 +489,23 @@ Start the third week.
 ### Start the UX Design Process: Empathize, Define, and Ideate by Google
 Finish the third week about user map
 Start the fourth weeks about ideation process.
+
+## 25 of october 
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Finish the first challenge 
+Watch the video and do the watch and repeat. 
+Listen some video to understand the array reduce function
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+I am still working on the styling of the payroute challenge, it's getting aestetically more pleasing. 
+
+### 26 of october
+
+
+### React Documentation
+Finish reading 
+- Updating Objects in State
+- Updating Arrays in State
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Watch the Cryptographic Harware and did the 2 last quiz of week 2. 
