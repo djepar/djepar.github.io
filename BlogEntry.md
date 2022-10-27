@@ -508,4 +508,19 @@ Finish reading
 - Updating Arrays in State
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
-Watch the Cryptographic Harware and did the 2 last quiz of week 2. 
+Watch the Cryptographic Harware and did the 2 last quiz of week 2.  
+
+### 27 of october
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Still working on the payroute website, the desktop version is getting closer to the real thing, but still a lot to do."
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Did the Watch and Repeact : chaining array functions.
+
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google
+Continue the last week : competitive audits
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Second week : read and watch about the 3 AAA : authentication authorization and identification
