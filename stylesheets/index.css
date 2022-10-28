@@ -1,5 +1,6 @@
 .choice-box{
     display : flex;
+    flex-wrap: wrap;
     padding-top : 100px;
     justify-content: space-around;
 }

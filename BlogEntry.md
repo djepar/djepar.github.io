@@ -524,3 +524,27 @@ Continue the last week : competitive audits
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Second week : read and watch about the 3 AAA : authentication authorization and identification
+
+## 28 of october
+
+### Introduction to Databases for Back-End Development by Meta
+Start the Create and read section of week2 
+- Create and drop database
+- Create table statement
+- Alter table statement
+- Insert Statement
+- Exercies : create Database, create table and insert data
+Install mySQL
+
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google
+Start the brainstorm design ideas by sketching where we learn about the How Might we (HMW) to ideate and the Crazy Eights to ideate. 
+
+### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
+Still working on the payroute website, the navbar still have some problem (size of the button and the space between the element)
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Listen to : 
+- Model data using Arrays and Objects
+Did the Watch and Repeat : 
+- Create Using initializer and Constructor
