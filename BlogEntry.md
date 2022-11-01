@@ -548,3 +548,52 @@ Listen to :
 - Model data using Arrays and Objects
 Did the Watch and Repeat : 
 - Create Using initializer and Constructor
+Start new challenge : Resolve impedance mismatch in task board renderer
+
+## 29 of october
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+I continue the challenge : Resolve impedance mismatch in task board renderer
+- I am working on the first step, splitting into differents boards.
+
+
+### Introduction to Databases for Back-End Development by Meta
+Continue the Create and read section of week2 
+- SELECT statement
+- INSERT INTO SELECT statement
+- Lab + quiz1 + quiz2
+
+# 30 of october
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Continue the : Resolve impedance mismatch. The first task work, I try to began the part with the lists. 
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Start the bootstrap section. 
+
+# 31 of october
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Continue the : Resolve impedance mismatch. The list and card section almost work. 
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Watch :
+- Use various Bootstrap components
+Watch and repeat : 
+- Bootstrap grid system
+- Bootstrap Tables
+- Bootstrap Navbar
+
+# 31 of october
+
+### Building Interactive Web Pages Using Modern JavaScript by NIIT
+Done, but not working...
+
+### Introduction to Databases for Back-End Development by Meta
+Additional Reading of Create and Read :
+- https://www.tutorialspoint.com/sql/index.htm
+- https://www.javatpoint.com/sql-tutorial
+- https://www.tutorialrepublic.com/sql-tutorial/sql-create-database-statement.php
+
+Videos/ Labs of Update and delete
+- Updating data
+- Deleting data
