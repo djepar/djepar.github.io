@@ -613,7 +613,7 @@ Continue the Update and delete section of week2
 - Quiz ,Knowledge check : Update and Delete
 - Video, module summary : Create, Read, Update and Delete (CRUD) Operations
 - Module quiz : Create, read, Update and Delete (CRUD) Operations
-Start Week3 SQL Operators section
+Week 3 SQL Operators section
 - Video : SQL Arithmetic Operators
 - Reading : SQL Arithmetic Operator Examples
 - Video : Operators in use
@@ -625,3 +625,13 @@ Start Week3 SQL Operators section
   - https://www.javatpoint.com/sql-arithmetic-operators
   - https://www.tutorialspoint.com/sql/sql-operators.htm
   - https://www.w3resource.com/sql/comparison-operators/sql-comparison-operators.php
+Week 3 Sorting and filtering data
+- Video : ORDER BY clause
+- Reading : Types of ordering/sorting
+- Video : WHERE clause
+- Reading : WHERE Clause uses
+- Lab : ORDER BY and WHERE
+- Practice Quiz, self-review : ORDER BY and WHERE
+- Video : SELECT DISTINCT clause
+- Reading : SELECT DISTINCT clause in use
+- Video : Module summary : SQL operators and sorting and filtering data
