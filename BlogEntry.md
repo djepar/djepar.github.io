@@ -597,3 +597,31 @@ Additional Reading of Create and Read :
 Videos/ Labs of Update and delete
 - Updating data
 - Deleting data
+
+## 1-2 of november
+Traveling
+
+## 3 of november
+### Challenge Web-Dev
+Day 1 : Creating a hero section
+
+
+### Introduction to Databases for Back-End Development by Meta
+Continue the Update and delete section of week2 
+- Lab : Record deletion
+- Quiz, Self-review  :record deletion
+- Quiz ,Knowledge check : Update and Delete
+- Video, module summary : Create, Read, Update and Delete (CRUD) Operations
+- Module quiz : Create, read, Update and Delete (CRUD) Operations
+Start Week3 SQL Operators section
+- Video : SQL Arithmetic Operators
+- Reading : SQL Arithmetic Operator Examples
+- Video : Operators in use
+- Video : SQL Comparaison operators
+- Reading : SQL Arithmetic Operator Examples
+- Practice Quiz : Knowledge Check : Operators
+- Reading : additional ressources
+  - https://www.w3schools.com/sql/sql_operators.asp
+  - https://www.javatpoint.com/sql-arithmetic-operators
+  - https://www.tutorialspoint.com/sql/sql-operators.htm
+  - https://www.w3resource.com/sql/comparison-operators/sql-comparison-operators.php
