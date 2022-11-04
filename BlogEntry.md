@@ -602,8 +602,6 @@ Videos/ Labs of Update and delete
 Traveling
 
 ## 3 of november
-### Challenge Web-Dev
-Day 1 : Creating a hero section
 
 
 ### Introduction to Databases for Back-End Development by Meta
@@ -635,3 +633,23 @@ Week 3 Sorting and filtering data
 - Video : SELECT DISTINCT clause
 - Reading : SELECT DISTINCT clause in use
 - Video : Module summary : SQL operators and sorting and filtering data
+
+## 4 of november
+Week 3 Sorting and filtering data
+- Module quiz : SQL operators and sorting and filtering data
+- Additional resources
+Week 4 : Designing database schema
+- Video : Database schema
+- Reading : Exploring database schema
+- Video : Schema in use
+- Video : Types of database schema
+- https://www.youtube.com/watch?v=ZBgXb66Ckz0
+- Reading : Building a schema
+- Additional resources 
+  - https://www.prisma.io/dataguide/intro/intro-to-schemas
+  - https://www.lucidchart.com/pages/database-diagram/database-schemas
+  - https://www.educative.io/blog/what-are-database-schemas-examples
+  - https://www.ibm.com/cloud/learn/database-schema
+Week 4 : Relational database design
+- Video : Table relationships
+- Reading : Relational model
