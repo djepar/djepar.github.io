@@ -635,6 +635,7 @@ Week 3 Sorting and filtering data
 - Video : Module summary : SQL operators and sorting and filtering data
 
 ## 4 of november
+### Introduction to Databases for Back-End Development by Meta
 Week 3 Sorting and filtering data
 - Module quiz : SQL operators and sorting and filtering data
 - Additional resources
@@ -653,3 +654,16 @@ Week 4 : Designing database schema
 Week 4 : Relational database design
 - Video : Table relationships
 - Reading : Relational model
+
+
+### Introduction to Databases for Back-End Development by Meta
+Week 4 : Relational database design
+- Video : Primary key
+- Video : Foreign key
+- Reading : Keys in depth
+- Practice Quiz, knowledge check : defining keys
+- Video : Finding entities
+- Reading : Entity relationship diagrams (ERD)
+- Practice Quiz : Database relations and keys
+- Additional Resources :
+  - https://www.oracle.com/database/what-is-a-relational-database/
