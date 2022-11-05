@@ -667,3 +667,6 @@ Week 4 : Relational database design
 - Practice Quiz : Database relations and keys
 - Additional Resources :
   - https://www.oracle.com/database/what-is-a-relational-database/
+  - https://opentextbc.ca/dbdesign01/chapter/chapter-8-entity-relationship-model/
+  - https://www.ibm.com/docs/en/ida/9.1.1?topic=entities-primary-foreign-keys
+  - https://www.scaler.com/topics/dbms/relational-model-in-dbms/
