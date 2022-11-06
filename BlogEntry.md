@@ -655,7 +655,7 @@ Week 4 : Relational database design
 - Video : Table relationships
 - Reading : Relational model
 
-
+## 5 of november
 ### Introduction to Databases for Back-End Development by Meta
 Week 4 : Relational database design
 - Video : Primary key
@@ -670,3 +670,9 @@ Week 4 : Relational database design
   - https://opentextbc.ca/dbdesign01/chapter/chapter-8-entity-relationship-model/
   - https://www.ibm.com/docs/en/ida/9.1.1?topic=entities-primary-foreign-keys
   - https://www.scaler.com/topics/dbms/relational-model-in-dbms/
+
+## 6 of november
+### Introduction to Databases for Back-End Development by Meta
+Week 4 : Database normalization
+- Video : What is database normalization
+- Reading : Data normalization
