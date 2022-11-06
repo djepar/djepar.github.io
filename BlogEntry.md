@@ -676,3 +676,10 @@ Week 4 : Relational database design
 Week 4 : Database normalization
 - Video : What is database normalization
 - Reading : Data normalization
+- Video : First normal form 1NF
+- Video : Second normal form 2NF
+- Practice quiz, knowledge check : Database normalization
+- Video : Third normal form 3NF
+- Lab : Database schema examples
+- Practice Quiz, self-review : Database schema examples
+- Video : Module summary of Database design
