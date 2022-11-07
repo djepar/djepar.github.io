@@ -715,3 +715,5 @@ Week 3 : Accounting
 - Practice Quiz : Authorization and Accounting
 - Video : Important Skills in Security
 Week 3 : Graded Assessments 
+Week 4 : Secure Network Architecture
+- Video : Network Hardening Best Practices
