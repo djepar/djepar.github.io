@@ -683,3 +683,35 @@ Week 4 : Database normalization
 - Lab : Database schema examples
 - Practice Quiz, self-review : Database schema examples
 - Video : Module summary of Database design
+
+## 7 of november
+### Introduction to Databases for Back-End Development by Meta
+Week 4 : Database normalization
+- Quiz, module quiz : Database design
+- Additional Resources
+  - https://opentextbc.ca/dbdesign01/chapter/chapter-12-normalization/
+  - https://www.databasestar.com/database-normalization/
+  - https://www.bbc.co.uk/bitesize/guides/zc93tv4/revision/2
+
+Week 5 
+- Video, Course Recap : Introduction to databases for back-end development
+- Quiz, graded assessment : Intro to databases
+
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 3 : Autentication
+- Video: TACACS+
+- Video: Single Sign-On
+- Video: Rob Path to IT
+Week 3 : Authorization
+- Video : Authorization and Access Control methods
+- Reading : Mobile Security Methods
+- Video : Access Control
+- Supplemental Reading for Authorization
+  - https://www.theverge.com/2017/5/3/15534768/google-docs-phishing-attack-share-this-document-with-you-spam
+- Video  : Access Control List
+Week 3 : Accounting
+- Video : Tracking Usage and Access
+- Practice Quiz : Authorization and Accounting
+- Video : Important Skills in Security
+Week 3 : Graded Assessments 
