@@ -717,3 +717,16 @@ Week 3 : Accounting
 Week 3 : Graded Assessments 
 Week 4 : Secure Network Architecture
 - Video : Network Hardening Best Practices
+
+## 8 of november
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 4 : Secure Network Architecture
+- Supplemental Reading for Network Hardening Best Practices
+  - https://www.cisco.com/en/US/docs/routers/access/800/850/software/configuration/guide/firewall.html
+  - https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands
+  - https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+  - https://support.apple.com/en-ca/guide/mac-help/mh34041/mac
+- Video : Network Hardware Hardening
+- Supplemental Reading on IEEE 802.1X
+- Video : Network Software Hardening
