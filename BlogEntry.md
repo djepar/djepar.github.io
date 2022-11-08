@@ -730,3 +730,5 @@ Week 4 : Secure Network Architecture
 - Video : Network Hardware Hardening
 - Supplemental Reading on IEEE 802.1X
 - Video : Network Software Hardening
+- Supplementary reading on HAProxy, nginx and Apache HTTP server
+  - http://www.haproxy.org/#docs
