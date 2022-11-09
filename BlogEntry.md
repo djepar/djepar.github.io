@@ -768,3 +768,11 @@ Week 4 : Graded Assessments
 Week 5 : System Hardening
 - Video : Intro to Defense in Depth
 - Video : Disabling Unnecessary Components
+- Video : Host-based Firewall
+- Video : Logging and Auditing
+
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google 
+Week 4 : Brainstorm design ideas by sketching
+- Video : Consider user journeys during ideation
+Week 4 : review
