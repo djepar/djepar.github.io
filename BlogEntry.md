@@ -732,3 +732,39 @@ Week 4 : Secure Network Architecture
 - Video : Network Software Hardening
 - Supplementary reading on HAProxy, nginx and Apache HTTP server
   - http://www.haproxy.org/#docs
+
+
+## 8 of november
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 4 : Secure Network Architecture
+- Practice Quiz : Secure Network Architecture
+- Joe Personal Obstacle
+Week 4 : Wireless Security
+- Video : WEP Encryption and Why You Shouldn't Use it
+- Supplementary reading : WEP Encryption and Why You Shouldn't Use It
+- Video : Let's Get Rid of WEP! WPA/WPA2
+- Supplementary reading : WiFi Protected Setup (WPS) PIN brute force vulnerability
+- Video : Wireless Hardening
+- Practice Quiz : Wireless Security
+- Video : Heather Social Engineering
+
+Week 4 : Network Monitoring
+- Video : Sniffing the Network
+- Supplemental Reading for Promiscuous Mode
+  - https://danielmiessler.com/blog/entering-promiscuous-mode-os-x/
+- Video : Intrusion Detection / Prevention Systems
+- Supplemental reading for IDS/IPS
+  - https://www.snort.org/
+  - https://zeek.org/
+- Reading : Unified Threat Management (UTM)
+- Reading : Home Network Security
+- Practice Quiz : Network Monitoring
+
+Week 4 : Graded Assessments
+- Practice Quiz : Securing Your Networks
+- Graded External Tool : Introduction to tcpdump
+
+Week 5 : System Hardening
+- Video : Intro to Defense in Depth
+- Video : Disabling Unnecessary Components
