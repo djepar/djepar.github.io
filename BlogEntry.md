@@ -734,7 +734,7 @@ Week 4 : Secure Network Architecture
   - http://www.haproxy.org/#docs
 
 
-## 8 of november
+## 9 of november
 
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Week 4 : Secure Network Architecture
@@ -776,3 +776,23 @@ Week 5 : System Hardening
 Week 4 : Brainstorm design ideas by sketching
 - Video : Consider user journeys during ideation
 Week 4 : review
+
+## 10 of november
+
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 5 : System Hardening
+- Supplemental Reading for Logging and Auditing
+  - https://github.com/rsyslog/rsyslog
+  - https://www.ibm.com/qradar
+- Reading : Windows Defender Guide
+- Video : Antimalware Protection
+- Supplemental Readings : Antimalware Protection
+  - https://isc.sans.edu/survivaltime.html
+  - https://www.coursera.org/learn/it-security/supplement/UTkM5/supplemental-readings-for-antimalware-protection
+
+### Start the UX Design Process: Empathize, Define, and Ideate by Google 
+Week 4 : Brainstorm design ideas by sketching
+- Video : Consider user journeys during ideation
+Week 4 : review
+- Peer-graded Assignment : Create a competitive audit and report for your portfolio project
+- Review your peers
