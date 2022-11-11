@@ -796,3 +796,23 @@ Week 4 : Brainstorm design ideas by sketching
 Week 4 : review
 - Peer-graded Assignment : Create a competitive audit and report for your portfolio project
 - Review your peers
+
+### Meet up 
+Went to a Python meet up where they present rasberrypy automation with Python and a brief history of async
+
+## 11 of november
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 5 : System Hardening
+- Supplemental Reading : Antimalware Protection
+  - Sophail: A Critical Analysis of Sophos Antivirus
+  - https://www.crn.com/news/security/240148192/bit9-admits-systems-breach-stolen-code-signing-certificates.htm
+- Video : Disk Encryption
+- Supplemental Reading : Disk Encryption
+  - https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
+  - https://support.apple.com/en-us/HT204837
+- Practice Quiz : System Hardening
+Week 5 : Application Hardening
+- Video : Software Patch Management
+- Reading : Browser Hardening
+- Video : Application Policies
+- Practice Quiz : Application Hardening
