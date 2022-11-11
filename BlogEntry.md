@@ -798,7 +798,7 @@ Week 4 : review
 - Review your peers
 
 ### Meet up 
-Went to a Python meet up where they present rasberrypy automation with Python and a brief history of async
+Went to a Python meet up where they present rasberrypi automation with Python and a brief history of async
 
 ## 11 of november
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
@@ -816,3 +816,10 @@ Week 5 : Application Hardening
 - Reading : Browser Hardening
 - Video : Application Policies
 - Practice Quiz : Application Hardening
+- Graded Assment
+Week 6 : Risk in the Workplace
+- Video : Security Goals
+- Video : Measuring and Assessing Risk
+- Supplementla Reading : Risk in the Workplace
+- Video : Privacy Policy
+- Practice Quiz : Risk in the Workplace
