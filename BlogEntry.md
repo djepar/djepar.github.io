@@ -823,3 +823,24 @@ Week 6 : Risk in the Workplace
 - Supplementla Reading : Risk in the Workplace
 - Video : Privacy Policy
 - Practice Quiz : Risk in the Workplace
+
+## 12 of october
+### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+Week 6 : Risk in the Workplace
+- Data Destruction
+Week 6 : Users
+- Video : User Habits
+- Video : Third-Party Security
+- Video : Security Training
+- Practice Quiz : Users
+Week 6 : Incident Handling
+- Video : Incident Reporting and Analysis
+- Reading : Incident Response
+- Video : Incident Response and Recovery
+- Video : Mobile Security and Privacy
+- Supplemental Reading : Mobile Security and Privacy
+- Reading : Bring Your Own Device
+- Practice Quiz : Incident Handling
+- Video : Interview Role Play, Security
+Week 6 : Graded Assessments
+- Quiz : Creating a Company Culture for Security
