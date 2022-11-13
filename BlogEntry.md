@@ -824,7 +824,7 @@ Week 6 : Risk in the Workplace
 - Video : Privacy Policy
 - Practice Quiz : Risk in the Workplace
 
-## 12 of october
+## 12 of november
 ### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
 Week 6 : Risk in the Workplace
 - Data Destruction
@@ -844,3 +844,9 @@ Week 6 : Incident Handling
 - Video : Interview Role Play, Security
 Week 6 : Graded Assessments
 - Quiz : Creating a Company Culture for Security
+- Quiz : Creating a Company Culture for Security - Design Document
+  
+### Python 
+Start the tutorial : Demystifying Python's Async and Await Keywords (https://www.youtube.com/watch?v=F19R_M4Nay4)
+
+## 13 of november
