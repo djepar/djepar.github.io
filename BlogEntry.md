@@ -18,7 +18,7 @@ I create the blog page.
 I continue the Programming with JavaScript of the MetaCourse, I saw again : Arrays, Objets and Functions (nothing new)
 Creation of another web-site which will be the manual of computer science. 
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Trying to understand PXEBoot and learn more about FTP, SFTP and TFTP.
 
 ## 14 september 2022
@@ -37,12 +37,12 @@ Continue working on the JavaScript Meta course.
 ## 16 September 2022
 ### Web-Dev
 Finished the JavaScript course, by doing the error handling exercices and the wrap-up. 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Continue working on the System administration course.
 Worked on FTP, SFTP, TFTP, DNS, DHCP and managing service for Linux and Windows. 
 
 ## 17 September 2022
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finish Week3 for the system admin : Services, managing cloud resources, print platform services (apaches2) troubleshooting platform services.
 Work on weeks 4 : learn the introduction of directory services. 
 
@@ -52,7 +52,7 @@ Work on weeks 4 : learn the introduction of directory services.
 Did most of the first week, doing forms, semantic and meta Tags. 
 I learn about the Open Graph Protocol to do social media card and such. 
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Did a little bit of Active Directory, but I got a problem on my virtual machine telling me that I need to be part of a domain. 
 
 ## 18 to the 25th of September 2022
@@ -135,7 +135,7 @@ I finish Sum of the first nth term of Series, which help me understand more abou
 Finished week 1 with JSX basic and such. 
 Start week 2 : Learn more about binding object (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind). Would need to dive more into it later. 
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Work a bit more on Active Directory.  
 
 ## 28 September 2022
@@ -166,14 +166,14 @@ Finish two challenges, one simple about array and multiplication of it's element
 Finished Week2 : learn more about how data travel and how stateful and stateless data work. 
 Watch the unveiled of the async rendering unlocks : (https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Work a bit more on Active Directory. 
 
 ## 30 September 2022
 ### Code Wars : JavaScript
 Finish one easy challenge, but use it to practice the arrow function and try to understand and do the sigma summation (the easy way is to do `((max-min)+1)* (max+min) / 2)`
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the Active Directory Thing
 
 
@@ -184,7 +184,7 @@ I have been doing some of the reading of the second week.
 ### CodeWars 
 Finish another challenge
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the Active Directory Thing
 
 
@@ -247,7 +247,7 @@ Learn more about the greedy algorithm
 
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 I started the Global sanctuary challenge. I did the nav bar, the general layout and a bit of css styling. 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the Active Directory Quiz
 
 ## 8 of October
@@ -287,7 +287,7 @@ Learn about the Neumann Architecture Data, did the assignment and peer-graded th
 I continue the Global sanctuary challenge. I did the photo grid, but there is still some adjustment to do on it.
 
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the first part of the backup section.
 
 ### Meta front-End Coursera Course 4 : Basic React
@@ -316,7 +316,7 @@ Finished the Linking and Routing sections :
 - Song selection exercices
 - Quizz
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the Data Recovery and Backups, with the post-mortem section, only have to finished the quizz of this section.
 
 ### Meta front-End Coursera Course 4 : Basic React
@@ -345,13 +345,13 @@ I continue the Global sanctuary challenge.
 I succeeded all the test, but I still have a lot of things to do style-wise.
 Thinking of not finishing this course, the quizz was full of mistake and it's seems to be made so quickly, probably better to do something else.
 
-### OS (Google Coursera Course 4 : System Administration and IT Infrastructure Services)
+### OS (Google Coursera IT Course 4 : System Administration and IT Infrastructure Services)
 Finished the course :)
 
 
 
 ## 14 october
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Start the new course
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Succeded the quiz.
@@ -378,7 +378,7 @@ Work on cmatrix, it's still clumsy, but I had another timer while adding the asy
 ### Cookiepedia
 Adding an About Us page, and more importantly, adding the generating recipe to generate the recipe on the recipes page. 
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Finished the malicious software session and start the network attacks session.
 
 ## 16 october
@@ -394,7 +394,7 @@ Finish reading Queueing a Series of State Updates
 ### Building Interactive Web Pages Using Modern JavaScript by NIIT
 Start the course and watch some of the Week 1 video.
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Read more about DDoS and start the section of Other Attacks.
 
 ### Codewars
@@ -418,7 +418,7 @@ Do the reading : Database Evolution, did the Practice Quiz and start the additio
 I finished the additional reading of the "Databases and data" section".
 Finished the Intro to SQL part (quiz and additional resources include)
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Finished the Symmetric Encryption sectoin and the Public Key or Asymmetric Encryption section.
 
 ## 19 of october
@@ -430,7 +430,7 @@ Read some of the additional reading:
 ### Math
 Finish the first section week2 quiz. 
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Finish the section about Hashing 
 
 ### Wargames 
@@ -440,7 +440,7 @@ Did 2-3 picoCTF challenges.
 ### Math
 Finish the second section reading and preparatory quiz.
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Work on the Cryptography applications section. 
 
 ## 21 of october
@@ -507,7 +507,7 @@ Finish reading
 - Updating Objects in State
 - Updating Arrays in State
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Watch the Cryptographic Harware and did the 2 last quiz of week 2.  
 
 ### 27 of october
@@ -522,7 +522,7 @@ Did the Watch and Repeact : chaining array functions.
 ### Start the UX Design Process: Empathize, Define, and Ideate by Google
 Continue the last week : competitive audits
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Second week : read and watch about the 3 AAA : authentication authorization and identification
 
 ## 28 of october
@@ -698,7 +698,7 @@ Week 5
 - Quiz, graded assessment : Intro to databases
 
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 3 : Autentication
 - Video: TACACS+
 - Video: Single Sign-On
@@ -720,7 +720,7 @@ Week 4 : Secure Network Architecture
 
 ## 8 of november
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 4 : Secure Network Architecture
 - Supplemental Reading for Network Hardening Best Practices
   - https://www.cisco.com/en/US/docs/routers/access/800/850/software/configuration/guide/firewall.html
@@ -736,7 +736,7 @@ Week 4 : Secure Network Architecture
 
 ## 9 of november
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 4 : Secure Network Architecture
 - Practice Quiz : Secure Network Architecture
 - Joe Personal Obstacle
@@ -779,7 +779,7 @@ Week 4 : review
 
 ## 10 of november
 
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 5 : System Hardening
 - Supplemental Reading for Logging and Auditing
   - https://github.com/rsyslog/rsyslog
@@ -801,7 +801,7 @@ Week 4 : review
 Went to a Python meet up where they present rasberrypi automation with Python and a brief history of async
 
 ## 11 of november
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 5 : System Hardening
 - Supplemental Reading : Antimalware Protection
   - Sophail: A Critical Analysis of Sophos Antivirus
@@ -825,7 +825,7 @@ Week 6 : Risk in the Workplace
 - Practice Quiz : Risk in the Workplace
 
 ## 12 of november
-### OS (Google Coursera Course 5 : IT Security: Defense against the digital dark arts)
+### OS (Google Coursera IT Course 5 : IT Security: Defense against the digital dark arts)
 Week 6 : Risk in the Workplace
 - Data Destruction
 Week 6 : Users
@@ -850,3 +850,16 @@ Week 6 : Graded Assessments
 Start the tutorial : Demystifying Python's Async and Await Keywords (https://www.youtube.com/watch?v=F19R_M4Nay4)
 
 ## 13 of november
+### Python 
+More python reading about multiprocessing
+
+## 14 of november
+## (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
+Week 2 : Review
+- Graded External Tool : Performance Tuning in Python Scripts
+
+Week 3 : Why Programs Crash
+- Video : Intro to Module 3 : Crashing Programs
+- Video : Systems That Crash
+- Video : Understanding Crashing Applications
+- Video : What to do when you can't fix the program?
