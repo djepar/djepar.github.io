@@ -863,3 +863,17 @@ Week 3 : Why Programs Crash
 - Video : Systems That Crash
 - Video : Understanding Crashing Applications
 - Video : What to do when you can't fix the program?
+
+## 15 of november
+Week 3 : Why Programs Crash
+- Video : Internal Server Error
+- Reading : Resources for Understanding Crashes
+- Practice Quiz : Why Programs Crash
+Week 3 : Code that Crashes
+- Video : Accessing Invalid Memory
+- Video : Unhandled Errors and Exceptions
+- Video : Debugging Someone Else's Code
+- Video : Debugging a Segmentation Fault
+- Video : Debugging a Python Crash
+- Resources for Debugging Crashes 
+  - https://realpython.com/python-concurrency/ (again)
