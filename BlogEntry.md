@@ -854,7 +854,7 @@ Start the tutorial : Demystifying Python's Async and Await Keywords (https://www
 More python reading about multiprocessing
 
 ## 14 of november
-## (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
+### (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
 Week 2 : Review
 - Graded External Tool : Performance Tuning in Python Scripts
 
@@ -865,6 +865,7 @@ Week 3 : Why Programs Crash
 - Video : What to do when you can't fix the program?
 
 ## 15 of november
+### (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
 Week 3 : Why Programs Crash
 - Video : Internal Server Error
 - Reading : Resources for Understanding Crashes
@@ -877,3 +878,31 @@ Week 3 : Code that Crashes
 - Video : Debugging a Python Crash
 - Resources for Debugging Crashes 
   - https://realpython.com/python-concurrency/ (again)
+
+## 16 of november
+
+### (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
+Mostly reading 
+
+## 17 of november
+### (Google Python Automation Course 3 : Troubleshooting and Debugging Techniques)
+Week 3 : Code that Crashes
+- Resources for Debugging Crashes 
+  - https://stackoverflow.com/questions/33047452/definitive-list-of-common-reasons-for-segmentation-faults
+  - https://github.com/fogleman/Minecraft/blob/master/main.py (looking at the code to see if I understand it)
+  - https://github.com/cherrypy 
+- Practice Quiz : Code that Crashes
+Week 3 : Handling Bigger Incidents
+- Video : crashes in Complex System
+- Video : Communication and Documentation During Incidents
+- Video : writing Effective Postmortems
+- Practice Quiz : Handling Bigger Incidents
+
+
+### Meta front-End Coursera Course 5 : Advanced React
+I read all of the note of Basic React
+Week 1 : Course Introductoin
+- Video : Introduction to the Course
+- Video : React and your career opportunities 
+- Reading : Course syllabus
+- Video : Grid layouts
