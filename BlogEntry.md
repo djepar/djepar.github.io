@@ -901,8 +901,18 @@ Week 3 : Handling Bigger Incidents
 
 ### Meta front-End Coursera Course 5 : Advanced React
 I read all of the note of Basic React
-Week 1 : Course Introductoin
+Week 1 : Course Introduction
 - Video : Introduction to the Course
 - Video : React and your career opportunities 
 - Reading : Course syllabus
 - Video : Grid layouts
+Week 1 : Rendering Lists in React
+- Video : Transforming lists in JavaScript
+- Video : Render a simple list component
+- Lab : Create a basic list component
+
+# 18 of november
+
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Rendering Lists in React
+- Video : What are Keys in React?
