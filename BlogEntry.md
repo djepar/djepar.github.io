@@ -916,3 +916,8 @@ Week 1 : Rendering Lists in React
 ### Meta front-End Coursera Course 5 : Advanced React
 Week 1 : Rendering Lists in React
 - Video : What are Keys in React?
+- Video : Using Keys Within List COmponents
+- Practice Quiz: Rendering Lists in React
+- Additional resources :
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map (again)
+  - https://beta.reactjs.org/learn/rendering-lists#rendering-data-from-arrays (again)
