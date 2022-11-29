@@ -367,7 +367,7 @@ put some style and fix the image of the navbar.
 
 ## 15 october
 
-## Math
+### Math
 Continue the algebra course. I will need to finish algebra to do calculus to do the algorithm course.
 ### Start Developing Responsive Web Pages Using HTML5 and CSS3 by NIIT
 Finished the first challenge of Week 2 and I started the second one. 
@@ -911,8 +911,7 @@ Week 1 : Rendering Lists in React
 - Video : Render a simple list component
 - Lab : Create a basic list component
 
-# 18 of november
-
+## 18 of november
 ### Meta front-End Coursera Course 5 : Advanced React
 Week 1 : Rendering Lists in React
 - Video : What are Keys in React?
@@ -921,3 +920,26 @@ Week 1 : Rendering Lists in React
 - Additional resources :
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map (again)
   - https://beta.reactjs.org/learn/rendering-lists#rendering-data-from-arrays (again)
+
+## 19 of november
+### Meta front-End Coursera Course 5 : Advanced React
+
+Week 1 : Forms in React
+- Video : What are controlled components?
+- Reading : Controlled components vs. Uncontrolled components
+
+## 28 of november
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Reading : Controlled components vs. Uncontrolled components (put into note)
+
+## 29 of november
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Video : Creating a Form component in React
+- Video : Create a Copntrolled Form Component
+
+
+## Math 
+Connue the algebra course. Finish the second exam
+
