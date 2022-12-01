@@ -937,9 +937,24 @@ Week 1 : Forms in React
 ### Meta front-End Coursera Course 5 : Advanced React
 Week 1 : Forms in React
 - Video : Creating a Form component in React
-- Video : Create a Copntrolled Form Component
+- Video : Create a Controlled Form Component
 
 
 ## Math 
-Connue the algebra course. Finish the second exam
+I continue the the algebra course. Finish the second exam
+
+## 30 of november
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Lab : Create a registration form (not finished)
+
+### UX : Build Wireframes and Low-Fidelity Prototypes by Google 
+Week 1 : Storyboarding and wireframing
+- Video : Use research to inform ideation
+- Reading : Learn more about how research informs ideations
+
+## 1 of december
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Lab : Create a registration form (finished)
 
