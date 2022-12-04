@@ -958,3 +958,29 @@ Week 1 : Storyboarding and wireframing
 Week 1 : Forms in React
 - Lab : Create a registration form (finished)
 
+
+### Cookipedia
+Work on the sign in and adding recipe forms
+## 2 of december 
+
+### Cookipedia
+Work on the sign in and adding recipe forms
+
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Solutions : Create a registration form
+- Practice Quiz : Forms in React
+- Additional resources :
+  - https://reactjs.org/docs/forms.html
+
+## 3 of december
+
+### Meta front-End Coursera Course 5 : Advanced React
+Week 1 : Forms in React
+- Additional resources
+  - https://formik.org/docs/overview
+    - https://www.youtube.com/watch?v=oiNtnehlaTo&t=7s&ab_channel=ReactAlicante 
+
+## 4 of december
+
+### Rust
