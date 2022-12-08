@@ -984,3 +984,10 @@ Week 1 : Forms in React
 ## 4 of december
 
 ### Rust
+Avant-propos
+- The Rust Programming Language
+- Foreward
+- Introduction
+
+Chapter 1 : Getting Started
+- 1.1 
