@@ -991,3 +991,17 @@ Avant-propos
 
 Chapter 1 : Getting Started
 - 1.1 
+
+
+## 5- 12 december
+Piano and Rust until chapter 3.2
+
+Work on Bevy and gamedev
+## 12 of december
+### ECS Programmation
+-https://t-machine.org/index.php/2007/09/03/entity-systems-are-the-future-of-mmog-development-part-1/
+-https://t-machine.org/index.php/2007/11/11/entity-systems-are-the-future-of-mmog-development-part-2/
+## 13 of december
+### ECS Programmation
+- https://t-machine.org/index.php/2007/12/22/entity-systems-are-the-future-of-mmog-development-part-3/
+- https://t-machine.org/index.php/2008/03/13/entity-systems-are-the-future-of-mmos-part-4/
